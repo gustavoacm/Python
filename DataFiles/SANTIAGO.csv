@@ -1,0 +1,40 @@
+Territory;Indicator;Value;Unit
+" SANTIAGO";"Total male population ";3244060,0000000000;People
+" SANTIAGO";"Total female population ";3439496,0000000000;People
+" SANTIAGO";"Total population";6683556,0000000000;People
+" SANTIAGO";"Population sex ratio";94,3178884348;Percentage
+" SANTIAGO";"Population aged under 15 years";1286288,0000000000;People
+" SANTIAGO";"Population aged over 59 years";1030510,0000000000;People
+" SANTIAGO";"Population aged between 15 -29 years";1634692,0000000000;People
+" SANTIAGO";"Population aged between 30 -59 year";2732066,0000000000;People
+" SANTIAGO";"Total demographic dependency ratio";53,0553330411;Percentage
+" SANTIAGO";"Youth-dependency ratio";29,4563609891;Percentage
+" SANTIAGO";"Old-age dependency ratio";23,5989720520;Percentage
+" SANTIAGO";"Mean years of schooling";12,4099243983;Percentage
+" SANTIAGO";"Mean years of schooling of men";12,4769820982;Percentage
+" SANTIAGO";"Mean years of schooling of women";12,3470441085;Percentage
+" SANTIAGO";"Primary completion rate-Total";92,9674817013;Percentage
+" SANTIAGO";"Ratio of girls to boys in primary education";0,9683385737;Percentage
+" SANTIAGO";"Ratio of girls to boys in secondary education";1,0163432573;Percentage
+" SANTIAGO";"Ratio of women to men in higher education";1,0974707921;Percentage
+" SANTIAGO";"Unemployment rate for people between 15 -24 years";13,9954220088;Percentage
+" SANTIAGO";"Proportion of population with availability of drinking water at home";98,9653021798;Percentage
+" SANTIAGO";"Percentage of households living in traditional dwellings";97,5096881914;Percentage
+" SANTIAGO";"Percentage of people living in traditional dwellings";97,7303481589;Percentage
+" SANTIAGO";"Percentage of households with access to drinking water";98,9358436019;Percentage
+" SANTIAGO";"Unemployment rate for men over 15 years";6,7516757997;Percentage
+" SANTIAGO";"Unemployment rate for women over 15 years";6,5520790755;Percentage
+" SANTIAGO";"Unemployment rate for people over 15 years";6,6637778638;Percentage
+" SANTIAGO";"Unemployment rate for men between 15 -24 years";13,5633358098;Percentage
+" SANTIAGO";"Unemployment rate for women between 15 -24 years";14,5679392131;Percentage
+" SANTIAGO";"Percentage of migrant population";7,1832512190;Percentage
+" SANTIAGO";"Percentage of migrant population of birth in bordering countries";2,8140700160;Percentage
+" SANTIAGO";"Percentage of migrant population of Latin American and the Caribbean birth";3,5572602733;Percentage
+" SANTIAGO";"Percentage of migrant population of birth in the rest of the world";0,8119209297;Percentage
+" SANTIAGO";"Percentage of recent migrant population from border countries";1,2589394578;Percentage
+" SANTIAGO";"Percentage of recent migrant population from Latin America and the Caribbean";2,9733433353;Percentage
+" SANTIAGO";"Percentage of recent migrant population from the rest of the world ";0,6442842212;Percentage
+" SANTIAGO";"Percentage of recent migrant population";4,8765670143;Percentage
+" SANTIAGO";"Percentage of adolescents who are studying";82,5637068650;Percentage
+" SANTIAGO";"Adolescent mothers";6,0692373186;Percentage
+" SANTIAGO";"Overcrowding rate";4,8359073755;Percentage
